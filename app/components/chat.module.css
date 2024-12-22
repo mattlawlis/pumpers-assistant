@@ -29,7 +29,9 @@
   max-height: 200px; /* Optional: Maximum height */
   resize: none; /* Prevent manual resizing */
   overflow-y: auto; /* Enable scrolling if content exceeds max height */
-  padding: 10px; /* Spacing inside the textarea */
+  padding: 16px 24px;
+  margin-right: 10px;
+  border-radius: 60px;
   font-size: 1em;
   border: 2px solid transparent;
   border-radius: 4px;
